@@ -10,3 +10,5 @@ updated: 2024-05-21
 Hi, welcome to my notes and thoughts :D
 
 See all notes at [[/blog]] or [[blog/]], specific at [[Obsidian guides]] or [[Braindump/Obsidian guides]], tags at [[tags/obsidian]] or [[/tags/obsidian]].
+
+Or [[blog/Braindump]], [[/blog/Braindump]], [[blog/Brewing]], [[/blog/Brewing]].
